@@ -760,7 +760,7 @@ def print_welcome_message():
 █▄█ █▀█ █▀█ █▄▄ █ █▄█ █ ██▄
           """)
     print(Fore.GREEN + Style.BRIGHT + "Hamster Kombat BOT!")
-    print(Fore.GREEN + Style.BRIGHT + "Update Link: https://github.com/adearman/hamsterkombat")
+    print(Fore.GREEN + Style.BRIGHT + "Update Link: https://github.com/Bruhhh211/hMster") 
     print(Fore.RED + Style.BRIGHT + "NOT FOR SALE ! Ngotak dikit bang. Ngoding susah2 kau tinggal rename :)\n\n")
 
 if __name__ == "__main__":
